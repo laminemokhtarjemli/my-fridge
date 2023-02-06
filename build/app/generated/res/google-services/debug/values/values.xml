@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">16959284795-37q5uchcaie1qt206tl3rf0g7p3b7mkj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">16959284795</string>
+    <string name="google_api_key" translatable="false">AIzaSyCwSRTIaHsPAecNLczWSFmrBlvkSR1UTnY</string>
+    <string name="google_app_id" translatable="false">1:16959284795:android:72d081ee60c38e6249de1e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCwSRTIaHsPAecNLczWSFmrBlvkSR1UTnY</string>
+    <string name="google_storage_bucket" translatable="false">myfridgev1-415fc.appspot.com</string>
+    <string name="project_id" translatable="false">myfridgev1-415fc</string>
+</resources>
